@@ -1,7 +1,7 @@
 # Hi there, I'm Nauval Antonio Virgo Muhammad Ridlo 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Nauval Antonio Virgo Muhammad Ridlo;Mobile+App+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Nauval-Antonio-Virgo-Muhammad-Ridlo;Mobile+App+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
